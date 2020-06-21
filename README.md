@@ -1,6 +1,6 @@
 fizz-buzz-woof-ruby-program
 ==================
-
+  A simple Ruby code to solve the Fizz Buff Woof challenge
   Replacing numbers having factors 3,5,7 and numbers containing 3,5,7 with "Fizz","Buzz" and "Woof".
 
 fizz buzz woof
